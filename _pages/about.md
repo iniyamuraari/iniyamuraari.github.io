@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 
 I am **Iniya**, a second year computing student at Imperial College London
 
-in my free time I love to write blogs, so don't forget to check them out
+in my free time, I love to write blogs, so don't forget to check them out
 
 aside from programming, my hobbies include classical Indian dance, making art, reading and pilates
 
