@@ -15,8 +15,10 @@ social: false # includes social icons at the bottom of the page
 ---
 welcome! 
 I am **Iniya**, a second year computing student at Imperial College London
+
 I love to write blogs, so don't forget to check them out
 
-aside from programming, my hobbies include classical Indian dance, making art, reading and pilates.
+aside from programming, my hobbies include classical Indian dance, making art, reading and pilates
+
 feel free to message me on [instagram](https://www.instagram.com/iniyamuraari)
 
