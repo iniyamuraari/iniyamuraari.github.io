@@ -19,5 +19,5 @@ I love to write blogs, so don't forget to check them out
 
 aside from programming, my hobbies include classical Indian dance, making art, reading and pilates
 
-feel free to message me on [instagram](https://www.instagram.com/iniyamuraari)
+feel free to message me on [instagram](https://www.instagram.com/iniyamuraari) :)
 
