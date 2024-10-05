@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-
+subtitle: welcome!
 profile:
   align: right
   image: prof_pic.jpg
@@ -12,7 +12,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-welcome! 
+
 I am **Iniya**, a second year computing student at Imperial College London
 
 I love to write blogs, so don't forget to check them out
