@@ -21,5 +21,5 @@ In my free time, I love to write blogs, so don't forget to check them out!
 
 Aside from programming, my hobbies include classical Indian dance, making art, reading and pilates.
 
-Feel free to message me on [instagram](https://www.instagram.com/iniyamuraari) :)
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/iniya-muraari-anand-8a39a3213/) :)
 
