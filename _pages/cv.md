@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 5
 ---
 Hi, I’m Iniya, a highly motivated and hardworking student, pursuing a degree in Computer Science at Imperial College London. I bring a strong work ethic and I am committed to achieving academic excellence, as well as being passionate about exploring the dynamic and ever-evolving field of Computing.
