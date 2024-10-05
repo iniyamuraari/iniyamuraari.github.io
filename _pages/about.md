@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am **Iniya**, a second year computing student at Imperial College London
+I am **Iniya**, a second year Computing student at Imperial College London.
 
 In my free time, I love to write blogs, so don't forget to check them out!
 
