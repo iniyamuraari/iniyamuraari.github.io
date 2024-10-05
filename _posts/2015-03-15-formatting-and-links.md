@@ -1,36 +1,41 @@
 ---
 layout: post
-title: a post with formatting and links
+title: IC Hack
 date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+description: my experience at the largest student-run hackathon in europe
+tags: computing
+published: true
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+IC hack - the largest student run hackathon in Europe, hosted by Imperial’s own Computing society and my first hackathon experience. Unfortunately, tickets to compete were very hard to come by, so I had to volunteer so I wouldn’t miss out on the biggest event of the year. The biggest perk of IC Hack had to be the insane sponsors. This year we had Marshall Wace, Citadel, Optiver, Terra, Jane Street, JetBrains and more!
 
-#### Hipster list
+**24 hours of coding**
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+The hackathon began with a big welcome talk at Millenium conference centre, and I was on door duty, which ended up being pretty decent as I got to talk to all the sponsors as they arrived. 
 
-#### Check List
+As students flocked to the common rooms, we were in charge of handing out tote bags (and stealing some for ourselves). Luckily I had a friend also volunteering, so the boring jobs like setting chairs up became more fun. 
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+The main sponsors got to shape the event by picking the problems teams needed to solve. This made the hackathon all the more interesting, as the problems were designed around their industry, and students could access their APIs to create to their hearts desire.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+**volunteering: behind the scenes**
 
-<hr>
+Even though I didn’t compete, volunteering gave me a cool perspective. I got to see how everything ran behind the scenes and help the event run smoothly (and I got a special volunteer’s green t-shirt which made me feel important). Thankfully, the volunteers had a schedule so I didn’t have to work the whole 24 hours, but there were many students who stayed up working on their solutions. My friend group decided to go home and they were definitely more productive after doing so. 
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+The constant flow of free food was enough to draw anyone to the event. They had pizza for the volunteers, as well as food trucks for everyone, ranging from burritos to bubble tea. There were tables filled to the brim with snacks and drinks, and I may have stolen too many cans of fanta lemon to take home.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+**missed talks, but got involved with judging**
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+One downside of volunteering instead of competing was that I didn’t get a chance to attend any of the sponsor talks. I definitely plan on making time for those next year.
+
+On the bright side, I did get to help Terra with the judging process, which turned out to be one of the most interesting parts of the event. Terra’s challenge focused on improving army performance, asking teams to develop solutions that could enhance the performance and safety of soldiers. It was fascinating to see the range of creative solutions the teams came up with.
+
+The winning project was a brilliant ****scheduler, tracker, and forecaster for military personnel, offering a way to efficiently manage resources and predict needs in real time. It was a well-deserved win, but there were plenty of other standout ideas too.
+
+In my opinion, the most original idea was a mapping tool designed to help soldiers find the safest routes back to base in conflict zones, which may not be the same as the fastest route, especially if the soldier is injured. It combined real-time data with historical patterns to minimise risks on the battlefield, demonstrating how technology can be used in innovative ways to save lives.
+
+**final thoughts and reflections**
+
+As fun as it was to volunteer, it’s hard not to feel a little jealous watching teams build incredible projects, get feedback from top-tier companies, and compete for the win. The experience was unforgettable, but I will be first in line to get a ticket next year. 
+
+If you’re into tech and haven’t been to a hackathon yet, you should definitely try to attend one, whether as a participant or volunteer. You might even end up helping to shape the future of tech— or at the very least, leave with a backpack full of snacks!
+
