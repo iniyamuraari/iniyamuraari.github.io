@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IC Hack
-date: 2015-03-15 16:40:16
+date: 2024-03-17
 description: my experience at the largest student-run hackathon in europe
 tags: computing
 published: true
