@@ -2,7 +2,7 @@
 layout: post
 title: My Arangetram Experience
 date: 2024-08-25 00:32:13
-tags: dance
+tags: dance, extra-curricular
 description: Completing my dream
 featured: true
 tabs: true
