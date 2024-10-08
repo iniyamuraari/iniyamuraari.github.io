@@ -1,12 +1,12 @@
---
+---
 layout: post
-title:My Arangetram Experience
+title: My Arangetram Experience
 date: 2024-08-25 00:32:13
 tags: dance
 description: Completing my dream
 featured: true
 tabs: true
---
+---
 
 After three years of preparation, I finally performed my arangetram this summer – an event that marks the culmination of years of dedication and the beginning of my journey as a classical dancer. The word “arangetram” translates to “ascending the stage,” symbolizing a dancer’s solo debut and a tradition that celebrates both the dancer's progress and the art form itself. 
 
