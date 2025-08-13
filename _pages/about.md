@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome!
 
-I am **Iniya**, a second year Computing student at Imperial College London.
+I am **Iniya**, a third year Computing student at Imperial College London.
 
 Aside from programming, my hobbies include classical Indian dance, making art, reading, and pilates.
 
