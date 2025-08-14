@@ -17,7 +17,7 @@ Welcome!
 
 I am **Iniya**, a third year Computing student at Imperial College London.
 
-Aside from programming, my hobbies include classical Indian dance, making art, reading, and pilates.
+Aside from programming, my hobbies include classical Indian dance, making art, and reading.
 
 Feel free to **message me** on [LinkedIn](https://www.linkedin.com/in/iniya-muraari-anand-8a39a3213/) :)
 
